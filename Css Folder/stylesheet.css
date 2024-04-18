@@ -1,0 +1,6 @@
+html{background-color: black;}
+body{color: azure;}
+img{border: 7px double; height:70%; width: 100%; }
+div{width: 55%; margin-left: 22.2%;}
+h1{text-transform: uppercase; text-align: center; font-size: 3rem;}
+p{text-transform: lowercase; text-align: center; font-size: 1.5rem;}
